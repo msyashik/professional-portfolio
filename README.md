@@ -1,6 +1,6 @@
-# React Fullstack Project
+# Portfolio
 
-## [BuildBetter](https://buildbetter-c96ba.web.app/)
+## [msyashik](https://msyashik-5913b.web.app/)
 
 ### Languages and Tools
 
