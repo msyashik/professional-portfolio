@@ -1,0 +1,20 @@
+@media only screen and (min-width: 575px) {
+  .eduAndExp-top {
+    margin-top: 10%;
+  }
+}
+
+@media only screen and (max-width: 574px) {
+  .eduExpMobileView {
+    text-align: center;
+  }
+  .expDivMobileView {
+    margin-top: 15%;
+  }
+  .eduAndExp-top {
+    margin-top: 15%;
+  }
+  .educationAndExpSegmentMobileView {
+    margin-top: 7%;
+  }
+}

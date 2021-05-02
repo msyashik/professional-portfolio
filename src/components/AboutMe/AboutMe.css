@@ -1,0 +1,10 @@
+@media only screen and (min-width: 575px) {
+  .aboutMe-top {
+    margin-top: 25%;
+  }
+}
+@media only screen and (max-width: 574px) {
+  .aboutMe-top {
+    margin-top: 20%;
+  }
+}

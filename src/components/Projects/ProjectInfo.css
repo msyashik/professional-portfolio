@@ -1,0 +1,6 @@
+.dropdownTextCenter {
+  height: 20rem !important;
+  width: 30rem;
+  left: 50% !important;
+  transform: translate(-50%, -12%) !important;
+}
