@@ -16,7 +16,7 @@ const others = ["C", "C++", "Data Structures", "Algorithms"];
 
 const Skills = () => {
   return (
-    <div className="skillsView">
+    <div className="skillsView" id="skills">
       <h1 className="text-center">Skills</h1>
       <div className="row mt-4" style={{ lineHeight: "2.5" }}>
         <div className="col-md-3">

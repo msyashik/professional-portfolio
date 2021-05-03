@@ -4,7 +4,7 @@ import portfolio from "../../Images/portfolioImage.png";
 
 const AboutMe = () => {
   return (
-    <div className="aboutMe-top">
+    <div id="aboutMe" className="aboutMe-top">
       <h1 className="text-center">About Me</h1>
       <div className="row">
         <div className="col-md-6">

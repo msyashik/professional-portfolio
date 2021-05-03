@@ -43,7 +43,7 @@ const experienceInfo = [
 
 const EducationAndExperience = () => {
   return (
-    <div className="row eduAndExp-top">
+    <div className="row eduAndExp-top" id="experience">
       <div className="col-md-6">
         <h1 className="eduExpMobileView">Education</h1>
         <div className="educationAndExpSegmentMobileView">

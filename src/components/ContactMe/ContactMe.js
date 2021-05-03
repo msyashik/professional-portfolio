@@ -31,7 +31,7 @@ const ContactMe = () => {
     setToSend({ ...toSend, [e.target.name]: e.target.value });
   };
   return (
-    <div className="row mt-5">
+    <div className="row mt-5" id="contact">
       <h1 className="text-center">Contact Me</h1>
       <div className="col-md-5">
         <ContactInfo></ContactInfo>

@@ -18,7 +18,7 @@ import "./HeaderMain.css";
 
 const HeaderMain = () => {
   return (
-    <div className="row">
+    <div className="row" id="home">
       <div className="header-main-top text-center">
         <div>
           <p style={{ fontSize: "25px" }}>Hello I'm</p>
