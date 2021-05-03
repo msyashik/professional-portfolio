@@ -5,7 +5,8 @@ const projectsData = [
   {
     id: "1",
     title: "BuildBetter",
-    description: "",
+    description:
+      "A responsive full stack web application which provides architectural services",
     tools: [
       "HTML5",
       "CSS3",
@@ -24,7 +25,8 @@ const projectsData = [
   {
     id: "2",
     title: "RichDeals",
-    description: "",
+    description:
+      "A responsive full stack web application which sells sports car",
     tools: [
       "HTML5",
       "CSS3",
@@ -43,7 +45,8 @@ const projectsData = [
   {
     id: "3",
     title: "BengalRide",
-    description: "",
+    description:
+      "A responsive web application which provides transportation services",
     tools: [
       "HTML5",
       "CSS3",

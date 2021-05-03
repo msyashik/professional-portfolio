@@ -1,5 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import Typist from "react-text-typist";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faEnvelope,
@@ -22,7 +23,12 @@ const HeaderMain = () => {
         <div>
           <p style={{ fontSize: "25px" }}>Hello I'm</p>
           <h1>Md Shahariar Younus Ashik</h1>
-          <h2>Software Engineer</h2>
+          <h4>
+            <Typist
+              sentences={["Competitive Programmer", "Web Developer"]}
+              loop={true}
+            />
+          </h4>
         </div>
         <div>
           <a

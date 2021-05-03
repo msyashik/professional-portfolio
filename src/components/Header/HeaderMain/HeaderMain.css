@@ -3,3 +3,8 @@
     margin-top: 15%;
   }
 }
+@media only screen and (max-width: 574px) {
+  .header-main-top {
+    margin-top: 50%;
+  }
+}
