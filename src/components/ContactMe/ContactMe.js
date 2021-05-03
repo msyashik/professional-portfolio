@@ -84,7 +84,11 @@ const ContactMe = () => {
             </div>
           </div>
           <div className="mt-2">
-            <input className="btn btn-primary px-4" type="submit" />
+            <input
+              style={{ backgroundColor: "rgb(0,38,66)" }}
+              className="btn btn-primary px-4"
+              type="submit"
+            />
           </div>
         </form>
       </div>

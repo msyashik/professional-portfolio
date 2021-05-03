@@ -15,6 +15,8 @@ const BlogInfo = (props) => {
               href={link}
               style={{ backgroundColor: "rgb(0,38,66)" }}
               class="btn btn-primary px-5"
+              target="_blank"
+              rel="noreferrer"
             >
               Visit
             </a>

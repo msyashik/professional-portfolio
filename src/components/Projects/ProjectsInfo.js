@@ -28,6 +28,8 @@ const ProjectsInfo = (props) => {
               href={liveLink}
               style={{ backgroundColor: "rgb(0,38,66)" }}
               class="btn btn-primary px-4"
+              target="_blank"
+              rel="noreferrer"
             >
               <FontAwesomeIcon icon={faLink} /> Live
             </a>
@@ -35,6 +37,8 @@ const ProjectsInfo = (props) => {
               href={clientSideRepository}
               style={{ backgroundColor: "rgb(0,38,66)" }}
               class="btn btn-primary px-"
+              target="_blank"
+              rel="noreferrer"
             >
               <FontAwesomeIcon icon={faGithub} /> Github
             </a>

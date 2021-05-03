@@ -34,6 +34,8 @@ const HeaderMain = () => {
           <a
             href="https://www.github.com/msyashik"
             style={{ textDecoration: "none", color: "white" }}
+            target="_blank"
+            rel="noreferrer"
           >
             <FontAwesomeIcon style={{ fontSize: "25px" }} icon={faGithub} />
           </a>
@@ -44,6 +46,8 @@ const HeaderMain = () => {
               color: "white",
               marginLeft: "15px",
             }}
+            target="_blank"
+            rel="noreferrer"
           >
             <FontAwesomeIcon style={{ fontSize: "25px" }} icon={faLinkedin} />
           </a>
